@@ -44,6 +44,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AishwarySharma23/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/AishwarySharma23/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
