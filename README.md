@@ -16,6 +16,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AishwarySharma23/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AishwarySharma23/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/AishwarySharma23/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
