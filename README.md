@@ -33,6 +33,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/AishwarySharma23/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AishwarySharma23/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Greedy
 |  |
@@ -42,6 +43,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AishwarySharma23/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0633-sum-of-square-numbers](https://github.com/AishwarySharma23/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AishwarySharma23/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/AishwarySharma23/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AishwarySharma23/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
