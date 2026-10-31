@@ -14,6 +14,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AishwarySharma23/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AishwarySharma23/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AishwarySharma23/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/AishwarySharma23/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -57,9 +58,18 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AishwarySharma23/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AishwarySharma23/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AishwarySharma23/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AishwarySharma23/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AishwarySharma23/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
