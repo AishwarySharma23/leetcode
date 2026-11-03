@@ -18,6 +18,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AishwarySharma23/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AishwarySharma23/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AishwarySharma23/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AishwarySharma23/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/AishwarySharma23/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AishwarySharma23/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/AishwarySharma23/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AishwarySharma23/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AishwarySharma23/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Greedy
 |  |
 | ------- |
