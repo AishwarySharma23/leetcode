@@ -35,6 +35,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/AishwarySharma23/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AishwarySharma23/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/AishwarySharma23/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AishwarySharma23/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -57,6 +58,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AishwarySharma23/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0096-unique-binary-search-trees](https://github.com/AishwarySharma23/leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Manacher
 |  |
 | ------- |
@@ -80,4 +82,16 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AishwarySharma23/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/AishwarySharma23/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/AishwarySharma23/leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/AishwarySharma23/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
