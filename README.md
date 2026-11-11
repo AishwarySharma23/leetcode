@@ -12,6 +12,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/AishwarySharma23/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/AishwarySharma23/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/AishwarySharma23/leetcode/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |
@@ -43,6 +44,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/AishwarySharma23/leetcode/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/AishwarySharma23/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AishwarySharma23/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/AishwarySharma23/leetcode/tree/master/0633-sum-of-square-numbers) |
