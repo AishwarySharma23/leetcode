@@ -25,6 +25,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AishwarySharma23/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AishwarySharma23/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AishwarySharma23/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AishwarySharma23/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AishwarySharma23/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/AishwarySharma23/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
