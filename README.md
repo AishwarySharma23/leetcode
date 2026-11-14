@@ -108,6 +108,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 | [0102-binary-tree-level-order-traversal](https://github.com/AishwarySharma23/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AishwarySharma23/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AishwarySharma23/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0662-maximum-width-of-binary-tree](https://github.com/AishwarySharma23/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 | [0102-binary-tree-level-order-traversal](https://github.com/AishwarySharma23/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AishwarySharma23/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AishwarySharma23/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0662-maximum-width-of-binary-tree](https://github.com/AishwarySharma23/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -138,4 +140,9 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AishwarySharma23/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AishwarySharma23/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0662-maximum-width-of-binary-tree](https://github.com/AishwarySharma23/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/AishwarySharma23/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
