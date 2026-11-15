@@ -23,6 +23,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AishwarySharma23/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/AishwarySharma23/leetcode/tree/master/0496-next-greater-element-i) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AishwarySharma23/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AishwarySharma23/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AishwarySharma23/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AishwarySharma23/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AishwarySharma23/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -50,6 +51,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 | [0096-unique-binary-search-trees](https://github.com/AishwarySharma23/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AishwarySharma23/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/AishwarySharma23/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AishwarySharma23/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AishwarySharma23/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AishwarySharma23/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Greedy
@@ -74,6 +76,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 | [0005-longest-palindromic-substring](https://github.com/AishwarySharma23/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/AishwarySharma23/leetcode/tree/master/0042-trapping-rain-water) |
 | [0096-unique-binary-search-trees](https://github.com/AishwarySharma23/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AishwarySharma23/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Manacher
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AishwarySharma23/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AishwarySharma23/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AishwarySharma23/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Tree
 |  |
