@@ -9,6 +9,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 | [0002-add-two-numbers](https://github.com/AishwarySharma23/leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/AishwarySharma23/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/AishwarySharma23/leetcode/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/AishwarySharma23/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
