@@ -10,6 +10,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 | [0024-swap-nodes-in-pairs](https://github.com/AishwarySharma23/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/AishwarySharma23/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AishwarySharma23/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AishwarySharma23/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 | [0042-trapping-rain-water](https://github.com/AishwarySharma23/leetcode/tree/master/0042-trapping-rain-water) |
 | [0633-sum-of-square-numbers](https://github.com/AishwarySharma23/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AishwarySharma23/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AishwarySharma23/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
