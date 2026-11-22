@@ -7,6 +7,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AishwarySharma23/leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AishwarySharma23/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/AishwarySharma23/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/AishwarySharma23/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AishwarySharma23/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -68,6 +69,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AishwarySharma23/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AishwarySharma23/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/AishwarySharma23/leetcode/tree/master/0042-trapping-rain-water) |
 | [0633-sum-of-square-numbers](https://github.com/AishwarySharma23/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/AishwarySharma23/leetcode/tree/master/0876-middle-of-the-linked-list) |
