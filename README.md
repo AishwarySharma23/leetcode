@@ -77,6 +77,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AishwarySharma23/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/AishwarySharma23/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AishwarySharma23/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/AishwarySharma23/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
