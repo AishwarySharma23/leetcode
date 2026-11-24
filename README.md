@@ -35,6 +35,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AishwarySharma23/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AishwarySharma23/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AishwarySharma23/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AishwarySharma23/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AishwarySharma23/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/AishwarySharma23/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -60,6 +61,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AishwarySharma23/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/AishwarySharma23/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/AishwarySharma23/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AishwarySharma23/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AishwarySharma23/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AishwarySharma23/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Greedy
@@ -112,6 +114,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AishwarySharma23/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AishwarySharma23/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AishwarySharma23/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -166,4 +169,12 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AishwarySharma23/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AishwarySharma23/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/AishwarySharma23/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
