@@ -11,6 +11,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 | [0024-swap-nodes-in-pairs](https://github.com/AishwarySharma23/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AishwarySharma23/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/AishwarySharma23/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AishwarySharma23/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AishwarySharma23/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AishwarySharma23/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AishwarySharma23/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -21,6 +22,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 | [0024-swap-nodes-in-pairs](https://github.com/AishwarySharma23/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/AishwarySharma23/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/AishwarySharma23/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AishwarySharma23/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 | [0005-longest-palindromic-substring](https://github.com/AishwarySharma23/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AishwarySharma23/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/AishwarySharma23/leetcode/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/AishwarySharma23/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/AishwarySharma23/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/AishwarySharma23/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AishwarySharma23/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -146,6 +149,7 @@ A responsive Netflix-inspired landing page built using HTML and CSS.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AishwarySharma23/leetcode/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/AishwarySharma23/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AishwarySharma23/leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
